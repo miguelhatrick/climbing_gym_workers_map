@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+superadmin_worker_access_package,climbing_gym.worker_access_package,model_climbing_gym_worker_access_package,climbing_gym.group_superadmin,1,1,1,1
+manager_worker_access_package,climbing_gym.worker_access_package,model_climbing_gym_worker_access_package,climbing_gym.group_manager,1,1,1,0
+user_worker_access_package,climbing_gym.worker_access_package,model_climbing_gym_worker_access_package,climbing_gym.group_user,1,1,1,0
+

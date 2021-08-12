@@ -1,0 +1,8 @@
+<odoo>
+    <data>
+        <menuitem name="Workers" id="workers_menu" parent="climbing_gym.menu_3"/>
+        <menuitem name="Worker access packages" id="worker_access_package"
+                  parent="workers_menu"
+                  action="worker_access_package_list_action"/>
+    </data>
+</odoo>

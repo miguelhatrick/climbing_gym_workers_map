@@ -26,6 +26,8 @@
     'data': [
             'security/ir.model.access.csv',
 
+            'data/cron_jobs.xml',
+
             'views/worker_access_package.xml',
             'views/menu.xml'
 
